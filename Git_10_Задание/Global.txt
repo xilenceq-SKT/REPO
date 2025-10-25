@@ -1,0 +1,8 @@
+user.email=gotqwuak@gmail.com
+user.name=Шохжахон
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true

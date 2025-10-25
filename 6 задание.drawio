@@ -1,0 +1,133 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
+  <diagram name="Страница — 1" id="drBoMFeXGEQx1o9UTy-U">
+    <mxGraphModel dx="1410" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-65" value="Регистрация и вход" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1310" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-66" value="Результат авторизации" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="990" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-67" value="Управление пользователями" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-68" value="Сис. Админ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-69" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-90" target="ob4QX6WdR9chb4vMu-fo-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="930" as="sourcePoint" />
+            <mxPoint x="230" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="1090" />
+              <mxPoint x="180" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-70" value="Аккаунт" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="ob4QX6WdR9chb4vMu-fo-69">
+          <mxGeometry x="-0.1041" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-89" target="ob4QX6WdR9chb4vMu-fo-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="1150" as="sourcePoint" />
+            <mxPoint x="490" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-72" value="Тип уч.записи" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ob4QX6WdR9chb4vMu-fo-71">
+          <mxGeometry x="-0.1306" y="2" relative="1" as="geometry">
+            <mxPoint x="4" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-73" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.833;exitY=0.078;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.378;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ob4QX6WdR9chb4vMu-fo-66" source="ob4QX6WdR9chb4vMu-fo-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1110" as="sourcePoint" />
+            <mxPoint x="630" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.156;exitY=0.222;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-66" target="ob4QX6WdR9chb4vMu-fo-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1010" as="sourcePoint" />
+            <mxPoint x="320" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-79" value="Управление уч.записями пользователей" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="ob4QX6WdR9chb4vMu-fo-79" source="ob4QX6WdR9chb4vMu-fo-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="1250" as="sourcePoint" />
+            <mxPoint x="790" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.589;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.108;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-89" target="ob4QX6WdR9chb4vMu-fo-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="1370" as="sourcePoint" />
+            <mxPoint x="1027.5" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-86" value="Данные пользователя" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ob4QX6WdR9chb4vMu-fo-85">
+          <mxGeometry x="-0.2686" y="2" relative="1" as="geometry">
+            <mxPoint x="15" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-89" value="Хранилище" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-90" value="Пользователь&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="820" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-93" value="Результат авторизации" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440.0027036620031" y="920.000038784081" as="geometry" />
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-94" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-68" target="ob4QX6WdR9chb4vMu-fo-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="1210" as="sourcePoint" />
+            <mxPoint x="760" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-89" target="ob4QX6WdR9chb4vMu-fo-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="894" y="1704" as="sourcePoint" />
+            <mxPoint x="759" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-97" value="Данные пользователя" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ob4QX6WdR9chb4vMu-fo-96">
+          <mxGeometry x="-0.2686" y="2" relative="1" as="geometry">
+            <mxPoint x="15" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-65" target="ob4QX6WdR9chb4vMu-fo-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1320" as="sourcePoint" />
+            <mxPoint x="390" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.308;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-65" target="ob4QX6WdR9chb4vMu-fo-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="1410" as="sourcePoint" />
+            <mxPoint x="760" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ob4QX6WdR9chb4vMu-fo-65" target="ob4QX6WdR9chb4vMu-fo-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1320" as="sourcePoint" />
+            <mxPoint x="760" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ob4QX6WdR9chb4vMu-fo-101" value="Результат регистрации" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300.0027036620031" y="1110.000038784081" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
